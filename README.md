@@ -20,4 +20,4 @@ From all the images in the above dataset, cropped face images were extracted usi
     
 # Model
 'triplet_generator.ipynb' was used to generate the triplets, the FaceNet model was trained on the triplet loss using the implementation available at the Keras website: https://keras.io/examples/vision/siamese_network/  
-FaceNet weights can be obtained here: https://github.com/nyoki-mtl/keras-facenet
+FaceNet model and weights can be obtained here: https://drive.google.com/drive/folders/1vCWyI_M3KcEuOF2yuksS24bzSmPrj6VW?usp=sharing
